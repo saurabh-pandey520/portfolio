@@ -57,7 +57,7 @@ const Hero = () => {
   Contact
 </a>
 <a
-  href="src/assets/saurabh_kumar_pandey_Resume.pdf"
+  href="/resume.pdf"
   download
   className="
   px-7 py-3 rounded-lg
