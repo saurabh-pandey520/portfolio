@@ -18,7 +18,7 @@ const projects = [
     tech: ["React", "Tailwind"],
     github: "https://github.com/saurabh-pandey520/portfolio",
     live: "",
-    image: "/public/Portfolioimg.png",
+    image: "Portfolioimg.png",
     featured: false,
   },
 ];
